@@ -32,7 +32,7 @@ pip install git+https://github.com/ive2go/nvidia-smi-remote.git@master
 ### NVIDIA Driver, `nvidia-smi`, and Python Requirements
 
 - **NVIDIA Requirement:** This tool requires NVIDIA GPUs and the `nvidia-smi` utility to be installed on the target systems.
-- **Python Version:** Python 3.6 or higher is recommended.
+- **Python Version:** Python 3.8 or higher is recommended.
 - **Dependencies:**
   - [`paramiko`](https://pypi.org/project/paramiko/) – For SSH connectivity.
   - [`blessed`](https://pypi.org/project/blessed/) – For terminal styling.
