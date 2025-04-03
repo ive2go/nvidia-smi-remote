@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Build directories
+build/
+dist/
+
+# Egg files
+*.egg-info/
+
+config.json
